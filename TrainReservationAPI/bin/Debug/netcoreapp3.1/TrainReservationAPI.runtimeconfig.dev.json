@@ -2,7 +2,7 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "C:\\Users\\Afran\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\PerTeknolojiMerve\\.nuget\\packages"
+      "C:\\Users\\Afran\\.nuget\\packages"
     ]
   }
 }

@@ -13,7 +13,7 @@ namespace TrainReservationAPI.Controllers
     {
         [HttpPost]
         public TrainReservationResponseModel TrainReservationRequest(TrainReservationRequestModel trainReservationRequestModel)
-        {
+         {
             TrainReservationResponseModel trainReservationResponseModel = new TrainReservationResponseModel();
             List<YerlesimAyrinti> yerlesimAyrintiList = new List<YerlesimAyrinti>();
             if (trainReservationRequestModel != null)
