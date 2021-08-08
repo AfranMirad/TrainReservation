@@ -26,7 +26,6 @@ C:\Users\Afran\Desktop\TrainReservation\TrainReservationAPI\bin\Debug\netcoreapp
 C:\Users\Afran\Desktop\TrainReservation\TrainReservationAPI\bin\Debug\netcoreapp3.1\TrainReservationAPI.runtimeconfig.dev.json
 C:\Users\Afran\Desktop\TrainReservation\TrainReservationAPI\bin\Debug\netcoreapp3.1\TrainReservationAPI.dll
 C:\Users\Afran\Desktop\TrainReservation\TrainReservationAPI\bin\Debug\netcoreapp3.1\TrainReservationAPI.pdb
-C:\Users\Afran\Desktop\TrainReservation\TrainReservationAPI\obj\Debug\netcoreapp3.1\TrainReservationAPI.csprojAssemblyReference.cache
 C:\Users\Afran\Desktop\TrainReservation\TrainReservationAPI\obj\Debug\netcoreapp3.1\TrainReservationAPI.AssemblyInfoInputs.cache
 C:\Users\Afran\Desktop\TrainReservation\TrainReservationAPI\obj\Debug\netcoreapp3.1\TrainReservationAPI.AssemblyInfo.cs
 C:\Users\Afran\Desktop\TrainReservation\TrainReservationAPI\obj\Debug\netcoreapp3.1\TrainReservationAPI.csproj.CoreCompileInputs.cache
@@ -38,3 +37,4 @@ C:\Users\Afran\Desktop\TrainReservation\TrainReservationAPI\obj\Debug\netcoreapp
 C:\Users\Afran\Desktop\TrainReservation\TrainReservationAPI\obj\Debug\netcoreapp3.1\TrainReservationAPI.dll
 C:\Users\Afran\Desktop\TrainReservation\TrainReservationAPI\obj\Debug\netcoreapp3.1\TrainReservationAPI.pdb
 C:\Users\Afran\Desktop\TrainReservation\TrainReservationAPI\obj\Debug\netcoreapp3.1\TrainReservationAPI.genruntimeconfig.cache
+C:\Users\Afran\Desktop\TrainReservation\TrainReservationAPI\obj\Debug\netcoreapp3.1\TrainReservationAPI.csprojAssemblyReference.cache
